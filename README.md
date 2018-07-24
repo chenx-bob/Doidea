@@ -1,2 +1,2 @@
-# Doidea
-This is idea repository! 
+# NGS_scripts
+This is a script repository! 
